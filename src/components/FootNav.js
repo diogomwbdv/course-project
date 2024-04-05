@@ -16,15 +16,15 @@ const socials = [
   },
   {
     icon: faGithub,
-    url: "https://github.com/F4YY",
+    url: "https://github.com/diogomwbdv",
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/rikiwendri/",
+    url: "https://www.linkedin.com",
   },
   {
     icon: faInstagram,
-    url: "https://www.instagram.com/fays.dalgona",
+    url: "https://www.instagram.com",
   },
   {
     icon: faTwitter,
